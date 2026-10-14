@@ -6,7 +6,7 @@ A two-stage text-to-image retrieval system combining WiSE-FT CLIP, pretrained vi
 
 Built with PyTorch and Hugging Face Transformers, and evaluated on the Flickr8k dataset using Kaggle GPUs.
 
-![System Architecture](assets/architecture.png)
+![System Architecture](diagram.png)
 
 ## 1. Project Overview
 
